@@ -10,4 +10,12 @@
     div.background{
         margin-left: 0px;
     }
+
+    div.white{
+        background-color: white;
+        color: rgb(25, 82, 39); 
+        width: 60%;
+        text-align: center;
+        padding: 40px 50px 200px 50px;  
+    }
 }
